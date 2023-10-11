@@ -1,8 +1,0 @@
-MyCircadianApp_CLI
-戍式data
-弛  戌式2023
-弛       戍式 02.csv
-弛       戌式 10.csv
-戍式 circadian_rhythm.py
-戍式 logo.py
-戌式 main.py
